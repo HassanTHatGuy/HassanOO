@@ -102,3 +102,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+w=input("Enter a name: ")
+print w
